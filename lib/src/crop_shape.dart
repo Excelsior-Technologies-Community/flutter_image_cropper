@@ -1,0 +1,4 @@
+enum CropShape {
+  rectangle,
+  circle,
+}
