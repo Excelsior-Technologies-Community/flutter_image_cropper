@@ -37,7 +37,7 @@ Add dependency in your `pubspec.yaml`
 ```
 dependencies:
   flutter_image_cropper:
-    path: 
+    path: https://github.com/Excelsior-Technologies-Community/flutter_image_cropper/tree/stage 
 ```
 
 Then run:
