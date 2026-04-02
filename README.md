@@ -50,7 +50,7 @@ flutter pub get
 
 ## 🎬 Preview
 
-[image_cropper.mp4](../../../../outputs/image_cropper.mp4)
+https://github.com/user-attachments/assets/6cd42718-7ad7-4520-ab4a-64368eb4a0c9
 
 ---
 
